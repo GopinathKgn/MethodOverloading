@@ -10,7 +10,8 @@ public class CompanyInfo {
 		
 }
 	private void companyName(long l, String A) {
-	System.out.println("Company License No :"+l+"\nCompany Address :"+A);
+	System.out.println("Company License No :"+l+"\n Company Address :"+A);
+	System.out.println("Company License No :"+l+"\n Company Address :"+A);
 	
 	}
 public static void main(String[] args) {
