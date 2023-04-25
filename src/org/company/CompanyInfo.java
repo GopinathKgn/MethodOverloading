@@ -11,7 +11,7 @@ public class CompanyInfo {
 }
 	private void companyName(long l, String A) {
 	System.out.println("Company License No :"+l+"\n Company Address :"+A);
-	System.out.println("Company GST Number: GTYUNBM7878732334");
+	System.out.println("Company GST Number: GTYUNBM78787325896");
 	System.out.println("Company License No :"+l+"\n Company Address :"+A);
 	
 	}
